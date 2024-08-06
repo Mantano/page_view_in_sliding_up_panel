@@ -29,4 +29,4 @@ This project demonstrates how to integrate a `PageView` within a `SlidingUpPanel
    ```
 
 ## Demo
-![App Demo](https://github.com/Mantano/page_view_in_sliding_up_panel/docs/demo.gif)
+![App Demo](https://github.com/Mantano/page_view_in_sliding_up_panel/blob/main/docs/demo.gif)
