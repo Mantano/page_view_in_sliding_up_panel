@@ -1,17 +1,32 @@
 # page_view_in_sliding_up_panel
 
-A new Flutter project.
+This project demonstrates how to integrate a `PageView` within a `SlidingUpPanel2` in Flutter. 
+
+## Features
+
+- **SlidingUpPanel2:** Uses the `sliding_up_panel2` package for the sliding panel functionality.
+- **PageView:** Implements a `PageView` within the panel to showcase multiple pages.
+- **Scroll Control:** Prevents simultaneous scrolling of the `PageView` and the sliding panel.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/your-username/page_view_in_sliding_up_panel.git
+   
+2. **Navigate into the directory:**
+   ```bash
+   cd page_view_in_sliding_up_panel
+   
+3. **Get the packages:**
+   ```bash
+    flutter pub get
+   
+4. **Run the app:**
 
-A few resources to get you started if this is your first Flutter project:
+   ```bash
+    flutter run
+   ```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# page_view_in_sliding_up_panel
+## Demo
+![App Demo](https://github.com/Mantano/page_view_in_sliding_up_panel/docs/demo.gif)
